@@ -1,2 +1,2 @@
-# IS699-GoPark
+# IS699 Project-GoPark
 An app to find parking space
